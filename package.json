@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/node": "^20.2.5",
+    "@types/socket.io": "^3.0.2",
+    "socket.io": "^2.5.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.7",
+    "utf-8-validate": "^5.0.10"
+  }
+}
